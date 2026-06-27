@@ -1,4 +1,3 @@
-# sqlserver-healthcheck
 # SQL Server Health Check
 
 A PowerShell-based health check tool for Microsoft SQL Server.
